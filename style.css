@@ -1,0 +1,40 @@
+.container {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    img src="indianflag: .jpg;"
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+  
